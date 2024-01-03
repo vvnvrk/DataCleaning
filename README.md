@@ -62,7 +62,7 @@ git clone https://github.com/SkillfactoryDS/DataCleaningProject
 
 ## Авторы
 
-* [Укажите свое имя](ссылка на ваши соц сети)
+* [Владимир Виноградов](https://ok.ru/profile/86044466081)
 
 ## Выводы
 
